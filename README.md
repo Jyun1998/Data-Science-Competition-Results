@@ -4,12 +4,12 @@ Result of Data Science Competitions
 ## Descriptions
 
 | Date | Rank | Name | Organization | Description |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Dec 2021 - Present | Final Round Ongoing | Gas Demand Estimation Competition | Korea Gas Corporation | AI Based Meeting Transcript Summarization Competition |
-| Sep 2021 - Oct 2021 | 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript
-| 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript
-| 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript
-| 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript
+| Sep 2021 - Oct 2021 | 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript |
+| 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript |
+| 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript |
+| 35/734th | AI Based Meeting Transcript Summarization Competition | LG | Summarized given Meeting Transcript |
 
 Gas Demand Estimation Competition (Final Round Ongoing) Korea Gas Corporation
 
