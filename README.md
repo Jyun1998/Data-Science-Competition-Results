@@ -2,6 +2,12 @@
 Result of Data Science Competitions
 
 ## Descriptions
+
+| Rank | Name | Description |
+| --- | --- | --- |
+| Final Round Ongoing | Gas Demand Estimation Competition | AI Based Meeting Transcript Summarization Competition |
+| 35/734th | Show file differences that haven't been staged |
+
 Gas Demand Estimation Competition (Final Round Ongoing) Korea Gas Corporation
 
 AI Based Meeting Transcript Summarization Competition (35/734th) LG
@@ -12,7 +18,7 @@ System Quality Anomaly Competition (13/1365th) LG
 
 •Analyzed 16M unidentified system log records Jan 2021 - Mar 2021
 
-2020 NH Investment Big Data Competition (final-round/638th) NH Investment Co.
+2020 NH Investment Big Data Competition (37/638th) NH Investment Co.
 
 •Analyzed pattern of investment-related fake news Dec 2020
 
