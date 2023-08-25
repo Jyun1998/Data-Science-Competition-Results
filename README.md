@@ -5,6 +5,7 @@ Result of Data Science Competitions
 
 | Date | Rank | Name | Organization | Description |
 | --- | --- | --- | --- | --- |
+| 2022.10 - 2022.11 | 6/1535th | Jeju Island Traffic Prediction | Jeju government | Predicted Traffic on Jeju island | 
 | 2022.08 - 2022.10 | 25/231th | NeurIPS2022- Ariel ML Data Challenge | NeurIPS 2022 | Prediction of the of the 6 atmospheric targets |
 | 2022.07 - 2021.08 | 50/1543th | Dacon Credit Card Fraud Detection | DACON | Credit Card Unsupervised Anomaly Detection |
 | 2021.10 - 2021.12 | 4/488th | Gas Demand Estimation Competition | Korea Gas Corporation | AI Based Meeting Transcript Summarization Competition |
